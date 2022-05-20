@@ -10,7 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+Aumentan los casos de Covid en Santa Fe pero no hay internados en terapia 
+El incremento de contagios se da sobre todo en el sur provincial donde Omicron BA2 es mayoritaria. Casi todos los enfermos tienen síntomas leves o moderados. Piden que las personas se vacunen con esquema inicial y refuerzos.
 # Header 1
 ## Header 2
 ### Header 3
